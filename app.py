@@ -1,7 +1,6 @@
 """
 Chest Disease Detection Using DenseNet Architecture
-Author: SAMPURNA SINHA
-Guided by: SWETA SRINIVASTAVA
+
 Institution: Amity University, Noida
 """
 
